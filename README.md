@@ -1,10 +1,10 @@
 # Hi there, I am Nuhu Enoch! 👋  
 
 Results-driven Data Analyst with a B.Tech in Computer Science and over six years of experience in IT administration,
-and system support. Skilled in leveraging SQL, MySQL, Power BI, and Spreadsheets to manage, analyze, and visualize data
+and system support. Skilled in leveraging SQL, MySQL, Power BI, Tableau, and Spreadsheets to manage, analyze, and visualize data
 for informed decision-making. Passionate about using data-driven insights to optimize performance, enhance operational efficiency,
 and solve complex business challenges.. I specialize in:  
-- **SQL, MySQL, Power BI, and Spreadsheets**  
+- **SQL, MySQL, Power BI, Tableau and Spreadsheets**  
 - **Data Management, Cleaning, and Visualization**   
 
 I’m currently:  

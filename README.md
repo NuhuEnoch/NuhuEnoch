@@ -24,7 +24,7 @@
 I am dedicated to using data to uncover insights, drive decisions, and promote innovation through ethical and accurate analysis. By translating complex information into clear narratives, I aim to empower organizations and communities. I also provide reliable, user-focused technical support with a solutions-first, empathetic approach. Committed to continuous learning, I strive to build resilient IT systems that enhance productivity and trust in technology.
 
 ## About Me :man_technologist:
-I am Skilled at transforming complex data into clear insights and ensuring reliable tech operations. Experienced in data modeling, visualization, system administration, and helpdesk management. Passionate about optimizing workflows, empowering teams through dashboards and troubleshooting, and driving continuous improvement.
+I am skilled at transforming complex data into clear insights and ensuring reliable tech operations. Experienced in data modeling, visualization, system administration, and helpdesk management. Passionate about optimizing workflows, empowering teams through dashboards and troubleshooting, and driving continuous improvement.
 
 Motivated by resilience, curiosity, and a commitment to self-improvement, I continuously learn, contribute, and lead with intention.
   

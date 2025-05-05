@@ -59,15 +59,28 @@ Motivated by resilience, curiosity, and a commitment to self-improvement, I cont
   * Troubleshooting
   * System Administrationce
 
-I’m currently:  
-- 🔭 Working on **Maji Ndogo Water Services Quality and Infrastructure** aimed to identify the water sources people use and determine both the total and
-    average number of users for each source, and to examine the duration citizens typically spend in queues to access water.  
-- 📊 Communicate our findings Visually.      
+## Data Analytics Projects :books:
+* [Water_Quality_Projects](https://github.com/enochjr2606/Water-Quality-and-Infrastructure-in-Maji-Ndogo): In this repository, you will find a completed projects in Spreadsheet MySQL, and Power BI.
+* [Bank Loan Projects](https://github.com/enochjr2606/Bank_Loan_Project): This repository hosts a project completed in SQL Server Management Studio and Power BI.
+* [Layoffs Projects](https://github.com/enochjr2606/World_Layoffs): In this repository, you will find a project completed in MySQL and Power BI.
 
-## 🌐 Connect with Me:  
-- [LinkedIn](https://www.linkedin.com/in/nuhu-enoch/)  
-- [Twitter](https://x.com/Enochjr26)  
-- [Email](mailto:nuhuenoch@gmail.com)  
+## Professional Goals :dart:
+* Leverage data analytics to diagnose issues, optimize workflows, and inform strategic decisions in IT support and business operations.
+* Empower underrepresented teams and communities through targeted mentorship, hands-on training programs, and inclusive, data-driven tools.
+* Design and deploy technology solutions that integrate advanced analytics with robust support systems to drive efficiency and social impact.
+* Apply my technical expertise in data modeling, system administration, and collaborative leadership to facilitate timely, evidence-based decision-making.
+
+## My Services :white_check_mark:
+* `**Data Analysis & Visualization**`: Provide end-to-end data services including data cleaning, exploration, analysis, and visualization using tools like Excel, Power BI, and SQL, transforming raw data into clear, actionable insights.
+* `**IT Support & Troubleshooting**`: Offer technical support for hardware, software, and network issues. I ensure systems run smoothly by resolving user issues, maintaining system performance, and implementing best practices.
+* `**Dashboard Development**`: Build interactive dashboards that highlight key metrics and insights to support decision-making in business, education, health, and research environments.
+
+## 🌐 Connect with Me :mailbox:
+* :link: [LinkedIn](https://www.linkedin.com/in/nuhu-enoch/)
+* :email: [Email](mailto:nuhuenochjr26@gmail.com)
+* :mag: [Twitter](https://x.com/Enochjr26)
+
+I’m eager to partner on projects within my expertise, and beyond, to achieve remarkable outcomes together. Let’s connect and make an impact! :earth_africa:      
 
 ## 📊 GitHub Stats:  
 ![Nuhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuhuEnoch&show_icons=true&theme=radical) 

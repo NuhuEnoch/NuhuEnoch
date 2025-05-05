@@ -7,14 +7,14 @@
 ###
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/nuhu-enoch]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nuhu-enoch" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=403d39&logoColor=white&labelColor=0077B5&style=flat" height="25" alt="linkedin logo" />
   </a>
-  <a href="mailto:nuhuenochjr26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo"  />
+  <a href="mailto:nuhuenochjr26@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo" />
   </a>
-  <a href="https://www.avitech.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="25"  />
+  <a href="https://www.avitech.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Website&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="25" />
   </a>
 </div>
 

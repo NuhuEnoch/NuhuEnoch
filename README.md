@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">| Data Analyst | IT Support | STEM Educator</p>
+<p align="left">| Data Analyst | IT Support |</p>
 
 ###
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Email&color=403d39&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo" />
   </a>
   <a href="https://www.avitech.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Website&label=ESAnalysis&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Website&label=AviTech&color=403d39&logoColor=&labelColor=8ac926&style=flat" height="25" />
   </a>
 </div>
 

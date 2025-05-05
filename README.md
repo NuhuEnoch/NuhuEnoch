@@ -45,7 +45,7 @@ Motivated by resilience, curiosity, and a commitment to self-improvement, I cont
   * Dependability
   * Attention to Detail
   * Communication & Presentation Skills
-  * * Leadership & Team Collaboration
+  * Leadership & Team Collaboration
   * Problem-Solving & Decision-making
   * Critical Thinking
   * Adaptability & Resilience

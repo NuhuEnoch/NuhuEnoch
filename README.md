@@ -24,12 +24,40 @@
 I am dedicated to using data to uncover insights, drive decisions, and promote innovation through ethical and accurate analysis. By translating complex information into clear narratives, I aim to empower organizations and communities. I also provide reliable, user-focused technical support with a solutions-first, empathetic approach. Committed to continuous learning, I strive to build resilient IT systems that enhance productivity and trust in technology.
 
 ## About Me :man_technologist:
-I’m a data-driven educator, researcher, and analyst passionate about using insights to drive impact, growth, and innovation. With a diverse academic background in STEM and hands-on experience in teaching, research, and analytics, I thrive at the intersection of knowledge, purpose, and problem-solving.
+I am Skilled at transforming complex data into clear insights and ensuring reliable tech operations. Experienced in data modeling, visualization, system administration, and helpdesk management. Passionate about optimizing workflows, empowering teams through dashboards and troubleshooting, and driving continuous improvement.
 
-Over the years, I’ve contributed to projects that span mathematical modeling, structural analysis, STEM education, and performance evaluation. Each one deepens my commitment to building systems that uplift communities and create opportunities for others. Whether I’m mentoring students, exploring new data tools, or developing strategies, my goal is always the same: to inspire, empower, and leave a lasting legacy of excellence.
-
-Driven by resilience, curiosity, and a desire to be a better version of myself, I continue to grow, share, and lead with purpose.
+Motivated by resilience, curiosity, and a commitment to self-improvement, I continuously learn, contribute, and lead with intention.
   
+## Skills :hammer_and_wrench:
+* **Data Analytics & Visualization**:  
+  * Power BI 
+  * Excel (Pivot Tables, Power Query, Charts, Power Pivot)
+  * SQL (Microsoft SQL Server Management Studio, MySQL Workbench)
+  * Tableau 
+
+* **Web & Productivity Tools**:  
+  * Microsoft Office Suite
+  * Canva
+  * Google Workspace 
+
+* **Soft Skills**:  
+  * Flexibility
+  * Dependability
+  * Attention to Detail
+  * Communication & Presentation Skills
+  * * Leadership & Team Collaboration
+  * Problem-Solving & Decision-making
+  * Critical Thinking
+  * Adaptability & Resilience
+  * Time Management
+  * Empathy & Emotional Intelligence
+    
+* **Technical Skills**
+  * Data Analysis & Database Management
+  * Data Cleaning & Processing
+  * Data Visualization & Reporting
+  * Troubleshooting
+  * System Administrationce
 
 I’m currently:  
 - 🔭 Working on **Maji Ndogo Water Services Quality and Infrastructure** aimed to identify the water sources people use and determine both the total and

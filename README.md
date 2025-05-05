@@ -71,9 +71,9 @@ Motivated by resilience, curiosity, and a commitment to self-improvement, I cont
 * Apply my technical expertise in data modeling, system administration, and collaborative leadership to facilitate timely, evidence-based decision-making.
 
 ## My Services :white_check_mark:
-* `**Data Analysis & Visualization**`: Provide end-to-end data services including data cleaning, exploration, analysis, and visualization using tools like Excel, Power BI, and SQL, transforming raw data into clear, actionable insights.
-* `**IT Support & Troubleshooting**`: Offer technical support for hardware, software, and network issues. I ensure systems run smoothly by resolving user issues, maintaining system performance, and implementing best practices.
-* `**Dashboard Development**`: Build interactive dashboards that highlight key metrics and insights to support decision-making in business, education, health, and research environments.
+* **`Data Analysis & Visualization`**: Provide end-to-end data services including data cleaning, exploration, analysis, and visualization using tools like Excel, Power BI, and SQL, transforming raw data into clear, actionable insights.
+* **`IT Support & Troubleshooting`**: Offer technical support for hardware, software, and network issues. I ensure systems run smoothly by resolving user issues, maintaining system performance, and implementing best practices.
+* **`Dashboard Development`**: Build interactive dashboards that highlight key metrics and insights to support decision-making in business, education, health, and research environments.
 
 ## 🌐 Connect with Me :mailbox:
 * :link: [LinkedIn](https://www.linkedin.com/in/nuhu-enoch/)
@@ -83,7 +83,7 @@ Motivated by resilience, curiosity, and a commitment to self-improvement, I cont
 I’m eager to partner on projects within my expertise, and beyond, to achieve remarkable outcomes together. Let’s connect and make an impact! :earth_africa:      
 
 ## 📊 GitHub Stats:  
-![Nuhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuhuEnoch&show_icons=true&theme=radical) 
+![Nuhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochjr2606&show_icons=true&theme=radical) 
 
 
 

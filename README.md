@@ -60,9 +60,10 @@ Motivated by resilience, curiosity, and a commitment to self-improvement, I cont
   * System Administrationce
 
 ## Data Analytics Projects :books:
-* [Water_Quality_Projects](https://github.com/enochjr2606/Water-Quality-and-Infrastructure-in-Maji-Ndogo): In this repository, you will find a completed projects in Spreadsheet MySQL, and Power BI.
-* [Bank Loan Projects](https://github.com/enochjr2606/Bank_Loan_Project): This repository hosts a project completed in SQL Server Management Studio and Power BI.
-* [Layoffs Projects](https://github.com/enochjr2606/World_Layoffs): In this repository, you will find a project completed in MySQL and Power BI.
+* [Water_Quality_Project](https://github.com/enochjr2606/Water-Quality-and-Infrastructure-in-Maji-Ndogo): In this repository, you will find a completed projects in Spreadsheet MySQL, and Power BI.
+* [Bank Loan Project](https://github.com/enochjr2606/Bank_Loan_Project): This repository hosts a project completed in SQL Server Management Studio and Power BI.
+* [Layoffs Project](https://github.com/enochjr2606/World_Layoffs): In this repository, you will find a project completed in MySQL and Power BI.
+* [HealthCare Project](https://github.com/enochjr2606/HealthCare_Project): In this repository, you will find a completed project in Power BI.
 
 ## Professional Goals :dart:
 * Leverage data analytics to diagnose issues, optimize workflows, and inform strategic decisions in IT support and business operations.

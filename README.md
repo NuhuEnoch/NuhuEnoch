@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">| Data Analyst | IT Support |</p>
+<p align="left">| Data Analyst | IT Support Specialist |</p>
 
 ###
 

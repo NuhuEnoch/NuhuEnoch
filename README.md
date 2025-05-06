@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Nuhu Enoch</h2>  
+<h2 align="left">Hi 👋! I am Nuhu Enoch</h2>  
 
 ###
 
